@@ -1,0 +1,40 @@
+
+/* h3{
+    color:rgb(209, 21, 21);
+    font-family: cursive;
+    text-align: center;
+    }
+h4{
+    color:rgba(238, 34, 7, 0.856);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+
+}
+p{
+    color:rgb(74, 53, 133);
+    font-style: italic;
+    
+    
+} */
+/* body{ 
+    background-color:rgb(21, 218, 224)  ;
+ } */
+
+
+
+.para{
+    text-decoration: wavy;
+    color:blueviolet;
+}
+.listv{
+    font-style: italic;
+    color:blue;
+}
+#tablee{
+    background-color: chartreuse;
+    border-color: blueviolet;
+}
+table{
+    background-color: chartreuse;
+  
+}
