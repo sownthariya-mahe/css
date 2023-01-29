@@ -1,0 +1,50 @@
+table,td,tr,th{
+    border:1px solid white;
+    border-collapse:separate;
+    padding:12px;
+    color: white;
+    
+ 
+    
+}
+ body{
+ /* background-image:url("download\ \(2\).jpg");
+ background-size:cover;  */
+ background-color:yellow;
+
+}
+table{
+    border:7px groove white;
+    text-align:center;
+    margin:5% 25%;
+    empty-cells: show;
+    border-spacing:10px 50px;
+    width:1000px;
+    table-layout:auto;
+
+    
+}
+th,td{
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+    color: white;
+    font-style: oblique;
+}
+caption 
+{
+    caption-side:bottom
+}
+.lu{
+    color:red;
+    background-color: blue;
+}
+#ff{
+    background-color:cadetblue;
+}
+.are{
+    background-color: brown;
+    color:blue;
+}
