@@ -1,0 +1,42 @@
+.div1{
+    background-color: rgba(14, 14, 113, 0.987);
+    width: 75%;
+    height:100%vh;  
+    padding: 20% 30%;
+     
+}
+#div2{
+    margin:1% 27% 1% 10%;
+    padding: 5% 5%;
+    border:2px dotted white;
+}
+.pricing{
+    color: rgb(138, 138, 252);
+}
+h1{
+    color: whitesmoke;
+    font-size: 40px;
+    text-decoration:underline;
+}
+#action,#project,#brand,#about {
+    box-sizing: border-box;
+    width: 500px;
+    height: 50px;
+    background-color:rgba(14, 14, 113, 0.987) ;
+    color:white;
+    border-radius: 5px;
+    text-indent:20px;
+    border-color: rgb(138, 138, 252);
+} 
+#div2 :hover  {
+border-color:orange; 
+}
+button{
+    box-sizing: border-box;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(231, 73, 37);
+    color: white;
+    text
+
+}

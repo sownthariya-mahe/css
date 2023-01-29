@@ -1,0 +1,36 @@
+body{
+    background-image:url("downl.jpg");
+    background-size:contain;
+}
+.fomm1{
+   
+    padding:250px 250px;
+    color: azure;
+    width:800px;
+    height:1000px;
+    align-content:center;
+    
+}
+h3{
+    font-family:"Blackadder ITC";
+    text-align:center;
+    font-style: italic;
+    font-size:250%;
+}
+h4{
+    text-align: justify;
+    text-size:100px;
+}
+#bbb1{
+    -webkit-background-clip:text;
+    color: azure;
+    border-color: azure;
+    align-self: center;
+    
+}
+h1{
+
+    font-family:"Brush Script MT";
+    font-size: 350%;
+    text-align: center;
+}

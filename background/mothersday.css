@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lobster&display=swap');
+.div1{
+    width: 1000px;
+    height: 50%;
+    border: 2px solid black;
+    background-image: linear-gradient(to right, rgb(194, 226, 77), rgb(33, 172, 5));
+}
+.div2{
+    margin: 100px;
+    width: 60%%;
+    height: 40%;
+    border: 1px solid black;
+    padding: 4%;
+    background-image: url("images.jpg");
+    background-size:cover;
+    
+    background-color: rgb(253, 153, 210);
+}
+h3{
+    color: rgb(146, 226, 41);
+    font-family:'Dancing Script';
+}
+h1{
+    font-size:50px;
+    color: rgb(146, 226, 41);
+    font-family:'Lobster';
+}
+button{
+    box-sizing: border-box;
+    width: 100px;
+    height: 35px;
+    color: white;
+    background-color: rgb(146, 226, 41);
+
+}
+p{
+    color: burlywood;
+}

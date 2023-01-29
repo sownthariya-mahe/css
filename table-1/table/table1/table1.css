@@ -1,0 +1,30 @@
+table,td,th
+{
+    border-collapse: collapse;
+    border:2px solid black;
+    padding:5px;
+    text-align: center;
+} 
+#progr1{
+background-color: green;
+}
+#progr2{
+    background-color:yellow;
+    }
+#progr3{
+        background-color:red;
+        }
+/* #ff{
+    background-color: cadetblue;
+}     
+#fe{
+    background-color: rgb(253, 253, 253);
+}    */
+tr:nth-child(odd){
+    background-color: aqua;
+}
+tr:nth-child(even){
+    background-color:blue;
+
+}
+th{ background-color:blue;}

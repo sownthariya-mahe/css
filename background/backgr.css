@@ -1,0 +1,12 @@
+body{
+    background-image:url("bg1.jpg");
+    background-size:cover;
+
+}
+div{
+    padding:25%;
+}
+#bbb1,#bbb2{
+    -webkit-background-clip:text;
+    we
+}
